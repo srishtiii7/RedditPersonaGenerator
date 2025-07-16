@@ -30,6 +30,6 @@ GROQ_API_KEY=your_groq_api_key
 
 Clone the repository and run the python file
 
-##Output
+## Output
 <img width="1161" height="429" alt="image" src="https://github.com/user-attachments/assets/1d78af92-b90a-42cc-b7ef-c961964f78eb" />
 
