@@ -21,7 +21,7 @@
   - Columnar persona layout
   - Metadata and Reddit activity stats
 
-## SetUp
+## Setup
 Create a .env file in the root directory
 REDDIT_CLIENT_ID=your_reddit_client_id
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
