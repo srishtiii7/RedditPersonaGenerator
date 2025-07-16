@@ -23,10 +23,10 @@
 
 ## Setup
 Create a .env file in the root directory
-REDDIT_CLIENT_ID=your_reddit_client_id
-REDDIT_CLIENT_SECRET=your_reddit_client_secret
-REDDIT_USER_AGENT=your_user_agent
-GROQ_API_KEY=your_groq_api_key
+ REDDIT_CLIENT_ID=your_reddit_client_id
+ REDDIT_CLIENT_SECRET=your_reddit_client_secret
+ REDDIT_USER_AGENT=your_user_agent
+ GROQ_API_KEY=your_groq_api_key
 
 Clone the repository and run the python file
 
